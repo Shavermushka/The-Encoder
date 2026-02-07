@@ -42,8 +42,8 @@
 ### Установка в один клик:
 ```bash
 # 1. Клонируйте репозиторий
-https://github.com/Shavermushka/The-Encoder.git
-cd shifr1
+git clone https://github.com/Shavermushka/The-Encoder.git
+cd The-Encoder
 
 
 # 2. Установите зависимости
