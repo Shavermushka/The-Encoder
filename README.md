@@ -43,7 +43,7 @@ The-Encoder
 ### Установка в один клик:
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/ваш-username/shifr1.git
+https://github.com/Shavermushka/The-Encoder.git
 cd шифратор
 
 # 2. Установите зависимости
