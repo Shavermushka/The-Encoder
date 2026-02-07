@@ -38,16 +38,12 @@
 ```bash
 # Клонируйте репозиторий
 git clone https://github.com/Shavermushka/The-Encoder.git
+
+# Перейдите в директорию
 cd The-Encoder
 
 # Установите зависимости
 pip install cryptography
 
 # Запустите программу
-python shifr1.py
-
-# 2. Установите зависимости
-pip install cryptography
-
-# 3. Запустите программу
 python shifr1.py
