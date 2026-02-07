@@ -1,4 +1,4 @@
-                 #The-Encoder
+ #The-Encoder
 
  🔐 Shifr2.3
 
