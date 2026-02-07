@@ -43,7 +43,8 @@
 ```bash
 # 1. Клонируйте репозиторий
 https://github.com/Shavermushka/The-Encoder.git
-cd шифратор
+cd shifr1
+
 
 # 2. Установите зависимости
 pip install cryptography
