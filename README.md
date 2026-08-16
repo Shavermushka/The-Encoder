@@ -1,4 +1,4 @@
-  🔐 The Encoder - Программа для шифрования файлов
+#  🔐 The Encoder - Программа для шифрования файлов
 
 ![Версия](https://img.shields.io/badge/Версия-2.3-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-green)
