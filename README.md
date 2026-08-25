@@ -2,7 +2,7 @@
 
 ![Версия](https://img.shields.io/badge/Версия-2.3-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-green)
-![Платформа](https://img.shields.io/badge/Платформа-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078d4?style=flat-square&logo=windows&logoColor=white)
 
 Моя простенкая программа для шифрования и дешифрования файлов с графическим интерфейсом.
 
