@@ -3,6 +3,7 @@
 ![Версия](https://img.shields.io/badge/Версия-2.3-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078d4?style=flat-square&logo=windows&logoColor=white)
+<img src="https://img.shields.io/badge/Status-Suspended-red" alt="Project Status">
 
 Моя простенкая программа для шифрования и дешифрования файлов с графическим интерфейсом.
 
